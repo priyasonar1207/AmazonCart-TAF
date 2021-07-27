@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76666" started-at="2021-07-27T13:17:58Z" finished-at="2021-07-27T13:19:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76666" started-at="2021-07-27T13:17:58Z" finished-at="2021-07-27T13:19:14Z">
+      <class name="com.scripts.CartFunctionalityTest">
+        <test-method status="PASS" signature="initializeEnvironment()[pri:0, instance:com.scripts.CartFunctionalityTest@35851384]" name="initializeEnvironment" is-config="true" duration-ms="21368" started-at="2021-07-27T18:47:58Z" finished-at="2021-07-27T18:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeEnvironment -->
+        <test-method status="PASS" signature="validateAddToCartFunctionality()[pri:1, instance:com.scripts.CartFunctionalityTest@35851384]" name="validateAddToCartFunctionality" duration-ms="55277" started-at="2021-07-27T18:48:19Z" description="Verify amazon product is added in to the cart" finished-at="2021-07-27T18:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddToCartFunctionality -->
+      </class> <!-- com.scripts.CartFunctionalityTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
